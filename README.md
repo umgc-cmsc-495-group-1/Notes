@@ -45,20 +45,18 @@ ________________________________________________________________________________
 
 **Notes:**
 
-Development: Fireside or Heroku
+Development: Firebase or Heroku
 
-Front-end: Fireside or REACT
-
-Back-end: Fireside or FastAPI
+Front-end and Back-end: Firebase
 
 ___________________________________________________________________________________________________________________________________________________________________
 
-**Features:**
+**Plan**
 
--Adding audio
+1. Sign in/sign up page + code review and Login page + code review
 
--Automatic image resizing
+2. Profile page + code review
 
--Defining users as only group members
+3. Feed page + code review
 
 
