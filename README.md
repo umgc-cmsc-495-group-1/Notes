@@ -41,6 +41,19 @@ https://missing.csail.mit.edu/2020/version-control/
 REACT Testing with GitHub
 https://dev.to/achukka/build-and-test-react-app-with-github-actions-2jb2
 
+REACT Stepper Component
+https://mui.com/material-ui/react-stepper/
+
+REACT Sign Up Form example
+https://www.knowledgehut.com/blog/web-development/building-a-sign-up-form-using-react
+
+REACT Unit testing with Jest
+https://www.youtube.com/watch?v=3e1GHCA3GP0
+
+Testing REACT Apps
+https://jestjs.io/docs/tutorial-react
+
+
 ___________________________________________________________________________________________________________________________________________________________________
 
 **Notes:**
