@@ -1,6 +1,6 @@
 # Notes
 Weekly notes for links/ideas
-Last updated 3/18/2022
+Last updated 3/29/2022
 ______________________________________________________________________________________________________________________________________________________________
 
 **Notes and links taken from CMSC495 - group 1 Discord**
@@ -58,27 +58,40 @@ ________________________________________________________________________________
 
 **Notes:**
 
-Development: Firebase 
+Components:
 
-Front-end and Back-end: Firebase
+- Brian
+
+-Katie
+
+-James
+
+Data:
+
+-Theresa
+
+-Mitch
+
+-Qurat
+
+Testing:
+
+-Charlie
+
+-Jared
+
+-Nana
+
+Recommendation:
+
+-Dylan
+
+-Mariette
+
+-Waqar
 
 
 ___________________________________________________________________________________________________________________________________________________________________
 
-**Plan**
 
-1. Sign in/sign up page + code review and Login page + code review
 
-2. Profile page + code review
-
-3. Feed page + code review
-
-____________________________________________________________________________________________________________________________________________________________________
-
-**To-Do:**
-
-1. Make sure everyone is signed up for a task
-
-2. Finalize project plan
-
-3. Make sure everyone is comfortable with REACT, Jest, and Firebase
